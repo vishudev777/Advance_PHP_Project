@@ -14,6 +14,6 @@ to run this file, XAMPP server ( Apache server and MySql) is required or any oth
 
 # for User Login (which is registered user )  <br/>
 -> name : manoj    <br/>
--> email : manoj@gmail.com   <br/>
--> mobile : 111   <br/>
+-> email : manoj@gmail.com <br/>
+-> mobile : 2147483647 <br/>
 -> password : 1234
