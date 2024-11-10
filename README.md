@@ -8,12 +8,12 @@ to run this file, XAMPP server ( Apache server and MySql) is required or any oth
 -> then open file ( Advance_PHP ) which is in ( C_Drive/xampp/htdocs ) ,then right-Click on file name (user_register.php) select COPY-PATH (option).<br/>
 -> go in search bar of brouser ,enter it after typing ' localhost ' in such a way ( http://localhost/Advance_PHP/user_register.php ).<br/>
 
-#for Admin Login <br/>
+# for Admin Login <br/>
 -> name : mona   <br/>
 -> password : mona@123  
 
-#for User Login (which is registered user )  <br/>
--> name : rinku    <br/>
--> email : pinky@gmail.com   <br/>
+# for User Login (which is registered user )  <br/>
+-> name : manoj    <br/>
+-> email : manoj@gmail.com   <br/>
 -> mobile : 111   <br/>
 -> password : 1234
