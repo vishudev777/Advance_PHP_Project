@@ -1,5 +1,5 @@
 ### `-> to run this file, XAMPP server ( Apache server and MySql) is required or any other server.`
-## `live link 👉` php-crud.infinityfreeapp.com/
+## `live link 👉` http://php-crud.infinityfreeapp.com/
 
 # How to run this file <br/>
 -> download this repo, Extract it with app such as ( WinRAR ).<br/>
