@@ -12,7 +12,7 @@ to run this file, XAMPP server ( Apache server and MySql) is required or any oth
 -> name : mona   <br/>
 -> password : mona@123  
 
-# for User Login (which is registered user ) Or CREATE NEW USER  <br/>
+# for User Login (which is registered user ) Or create new user <br/>
 -> name : manoj    <br/>
 -> email : manoj@gmail.com <br/>
 -> mobile : 2147483647 <br/>
