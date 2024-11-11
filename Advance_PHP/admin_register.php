@@ -8,7 +8,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $sql = "insert into `admin`(name, password) values('$name', '$password')";
     $result = mysqli_query($con, $sql);
     if ($result) {
-        echo "Admin has Registered Successfully";
+        echo "Welcome,".$name. "has Registered Successfully as Admin";
+        //  echo 'Welcome, Admin ' . $name . ' you are Logged in ';
+            header('location:admin_login.php');
     } else {
         die(mysqli_error($con));
     }
